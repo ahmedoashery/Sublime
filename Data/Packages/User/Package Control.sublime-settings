@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"A File Icon",
+		"ayu",
+		"Boxy Theme Addon - Mono File Icons",
+		"ColorPicker",
+		"Colorsublime",
+		"DocBlockr",
+		"Duplicate And Increment",
+		"Emmet",
+		"Flux Snippets",
+		"Package Control",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP Faker Completions",
+		"PHP-Twig",
+		"PHPIntel",
+		"PhpNamespace",
+		"Predawn",
+		"Symfony2 Snippets",
+		"Theme - Eightlime",
+		"Theme - El Capitan",
+		"Theme - Elementary",
+		"Theme - One Dark",
+		"Theme - Spacegray",
+		"Themr"
+	]
+}
